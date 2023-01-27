@@ -15,6 +15,7 @@ body {
   justify-content: center;
   align-items: center;
   border-top: 1px solid black;
+   height: 49px;
 }
 .content {
   min-height: calc(100vh - 100px);
